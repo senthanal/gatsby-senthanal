@@ -1,6 +1,6 @@
 # Gatsby Sass Starter
 
-A minimalistic Gatsby starter template featuring SASS and CSS 7-1 architecture. The project focusses on creating websites which are not only fast, but pretty too!
+A minimalistic Gatsby starter template featuring SASS and CSS 7-1 architecture. The project focusses on utilizing the built-in Gatsby template!
 
 ## What Tech This Includes
 
@@ -40,7 +40,7 @@ A minimalistic Gatsby starter template featuring SASS and CSS 7-1 architecture. 
 Run the following in your favorite terminal:
 
 ```
-gatsby new [directory] https://github.com/a2zarslaan/gatsby-starter-sasslan
+gatsby new [directory] https://github.com/senthanal/gatsby-senthanal
 ```
 
 ## Starting from Scratch
@@ -55,13 +55,13 @@ npm install -g gatsby-cli
 - Inside the directory of your choice, scaffold a new Gatsby site:
 
 ```
-gatsby new [directory] https://github.com/a2zarslaan/gatsby-starter-sasslan
+gatsby new [directory] https://github.com/senthanal/gatsby-senthanal
 ```
 
 For example, if I want my installation in `~/Code/new-gatsby-site`, I would navigate to `~/Code` and run:
 
 ```
-gatsby new new-gatsby-site https://github.com/a2zarslaan/gatsby-starter-sasslan
+gatsby new new-gatsby-site https://github.com/senthanal/gatsby-senthanal
 ```
 
 - Navigate to your new directory and run:
@@ -80,6 +80,7 @@ npm run deploy
 
 ## Credits
 
+Gatsby template provided by [Amar Zia Arslaan](https://github.com/a2zarslaan/gatsby-starter-sasslan) 
 Project structure inspired by [Colby Fayok's Gatsy Starter](https://github.com/colbyfayock/gatsby-starter-sass)
 
 Pull requests welcome!

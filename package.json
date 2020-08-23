@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-sasslan",
+  "name": "gatsby-senthanal",
   "description": "A minimalistic Gatsby starter with a pretyy design",
   "version": "1.0.0",
-  "author": "Amar Zia Arslaan",
+  "author": "Senthanal Sirpi Manohar",
   "dependencies": {
     "gatsby": "^2.19.43",
     "gatsby-plugin-google-fonts": "^1.0.1",
@@ -45,9 +45,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/a2zarslaan/gatsby-starter-sasslan"
+    "url": "https://github.com/senthanal/gatsby-senthanal"
   },
   "bugs": {
-    "url": "https://github.com/a2zarslaan/gatsby-starter-sasslan/issues"
+    "url": "https://github.com/senthanal/gatsby-senthanal/issues"
   }
 }

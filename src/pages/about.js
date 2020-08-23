@@ -12,7 +12,11 @@ const AboutPage = () => {
       </Helmet>
       <Container>
         <h1>About</h1>
-        <p>Add information about you!</p>
+        <p>Software Developer & Prototyper</p>
+        <p>I am a Software Developer, specialised in web based spatial software development. 
+        Living in Munich, Germany. Working at WIGeoGIS, developing web applications 
+        with Javascript frameworks, Java and Node. Mad table tennis paddler, 
+        tweet useless things and retweet lot of useful stuff, amateur photographer.</p>
       </Container>
     </Layout>
   );

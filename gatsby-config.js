@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    author: "Amar Zia Arslaan",
-    title: "Gatsby Starter Template sasslan",
+    author: "Senthanal Sirpi Manohar",
+    title: "My personal website using Gatsby",
   },
-  pathPrefix: "/gatsby-starter-sasslan",
+  pathPrefix: "/senthanal",
   plugins: [
     "gatsby-plugin-resolve-src",
     "gatsby-plugin-sass",
