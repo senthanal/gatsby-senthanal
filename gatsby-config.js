@@ -3,7 +3,7 @@ module.exports = {
     author: "Senthanal Sirpi Manohar",
     title: "My personal website using Gatsby",
   },
-  pathPrefix: "/senthanal",
+  pathPrefix: "/gatsby-senthanal",
   plugins: [
     "gatsby-plugin-resolve-src",
     "gatsby-plugin-sass",
