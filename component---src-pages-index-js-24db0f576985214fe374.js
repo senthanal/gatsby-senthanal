@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{RXBc:function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),l=n.n(t),c=n("TJpk"),r=n.n(c),m=n("7oih"),o=n("VUD3");a.default=function(){return l.a.createElement(m.a,{pageName:"home"},l.a.createElement(r.a,null,l.a.createElement("title",null,"Senthanal Sirpi Manohar")),l.a.createElement(o.a,null,l.a.createElement("h1",{className:"heading"},"Hello! I'm Senthanal"),l.a.createElement("p",null,"Welcome to my page!")))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-24db0f576985214fe374.js.map
